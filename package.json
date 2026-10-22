@@ -87,7 +87,7 @@
     "husky": "4.2.5",
     "jasmine": "3.5.0",
     "jasmine-spec-reporter": "6.0.0",
-    "jsdoc": "3.6.3",
+    "jsdoc": "4.0.5",
     "jsdoc-babel": "0.5.0",
     "lint-staged": "10.2.3",
     "madge": "4.0.2",
